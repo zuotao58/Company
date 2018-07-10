@@ -1,0 +1,2 @@
+rsync -av 命令进行备份
+利用linux corntab 定时任务

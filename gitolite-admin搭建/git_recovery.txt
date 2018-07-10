@@ -1,0 +1,4 @@
+1.新建git库，将备份的.git库替换新建的库
+注意:
+ 本地的git，无法同步，git remote -v  "xxxxx.git/"  git remote remove origin  git remote add origin "xxxxx.git"
+ git pull origin <branch> 同步代码，合并分支
